@@ -25,6 +25,18 @@ const questions = [
     message: "Please write a short description of your project",
     name: "description",
   },
+  {
+    type: "list",
+    message: "What kind of license should your project have?",
+    name: "license",
+    choices: ["MIT", "ISC", "BSD", "Apache-2.0"],
+  },
+  {
+    type: "input",
+    message: "What command should be run to install dependencies?",
+    name: "installation",
+    default: "npm i",
+  },
 ];
 
 // function to write README file
