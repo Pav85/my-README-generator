@@ -26,17 +26,17 @@ ${data.license}
 ${data.description}
 ## Table of Contents
 
-* [Installation](#Installation)
+**[Installation](#Installation)**<br>
 
-* [Usage](#Usage)
+**[Usage](#Usage)**<br>
 
-* [License](#License)
+**[License](#License)**<br>
 
-* [Contributing](#Contributing)
+**[Contributing](#Contributing)**<br>
 
-* [Tests](#Tests)
+**[Tests](#Tests)**<br>
 
-* [Questions](#Questions)
+**[Questions](#Questions)**<br>
 
 ## Installation
 To install necessary dependencies run the following command:
@@ -63,8 +63,12 @@ ${" ```"}
 
 ## Questions
 If you have any questions about this project, open an issue or contact me directly at 
-${data.email}. You can find more of my work at 
-https://github.com/${data.username}
+${
+  data.email
+}. If you want to take a look at more of my work click on the following link:
+https://github.com/${
+    data.username
+  }. Thank you for your time and I hope you enjoyed.
 
 
 `;

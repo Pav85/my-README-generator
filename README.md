@@ -1,55 +1,48 @@
+
 # My README Generator
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Description
-
 This project helps to write a professional README file for all repositories.
-
 ## Table of Contents
 
-- [Installation](#Installation)
+**[Installation](#Installation)**<br>
 
-- [Usage](#Usage)
+**[Usage](#Usage)**<br>
 
-- [License](#License)
+**[License](#License)**<br>
 
-- [Contributing](#Contributing)
+**[Contributing](#Contributing)**<br>
 
-- [Tests](#Tests)
+**[Tests](#Tests)**<br>
 
-- [Questions](#Questions)
+**[Questions](#Questions)**<br>
 
 ## Installation
-
 To install necessary dependencies run the following command:
 
-```
-npm i
-```
+```  
+npm i 
+ ```
 
 ## Usage
-
 Download it and run "npm i" commmand and then run node index.js. Then you getto create professional README file.
 
-## Licence
-
+## License
 This project is licensed under the MIT license.
 
 ## Contributing
-
 You need to fork this repository and submoit a pull request.
 
 ## Tests
-
 To run tests, run the following command:
 
-```
-npm test
-```
+```  
+npm test 
+ ```
 
 ## Questions
+If you have any questions about this project, open an issue or contact me directly at 
+pawel.werbowy@gmail.com. If you want to take a look at more of my work click on the following link:
+https://github.com/Pav85. Thank you for your time and I hope you enjoyed.
 
-If you have any questions about this project, open an issue or contact me directly at
-pawel.werbowy@gmail.com. You can find more of my work at
-https://github.com/Pav85
+
