@@ -38,7 +38,7 @@ ${data.description}
 
 **[Questions](#Questions)**<br>
 
-**[Walkthrough Video](#WalkthroughVideo)**<br>
+**[Walkthrough Video](#Walkthrough Video)**<br>
 
 ## Installation
 To install necessary dependencies run the following command:

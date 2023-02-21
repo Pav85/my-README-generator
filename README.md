@@ -17,7 +17,7 @@ This project is designed to help create a professional README file for all repos
 
 **[Questions](#Questions)**<br>
 
-**[Walkthrough Video](#WalkthroughVideo)**<br>
+**[Walkthrough Video](#Walkthrough Video)**<br>
 
 ## Installation
 To install necessary dependencies run the following command:
