@@ -37,7 +37,19 @@ ${data.description}
 
 * [Questions](#Questions)
 
-## Installation 
+## Installation
+To install necessary dependencies run the following command:
+
+${"``` "} 
+${data.installation} 
+${" ```"}
+
+## Usage
+${data.usage}
+
+## Licence
+This project is licensed under the ${data.license} license
+
 `;
 }
 
