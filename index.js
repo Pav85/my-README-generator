@@ -18,7 +18,7 @@ const questions = [
   {
     type: "input",
     message: "What is your project's name?",
-    name: "project_name",
+    name: "title",
   },
   {
     type: "input",
@@ -36,7 +36,11 @@ function writeToFile(fileName, data) {
 }
 
 // function to initialize program
-function init() {}
+function init() {
+  inquirer.prompt(questions).then((data) => {
+    writeToFile("README.md", generateMarkdown(data));
+  });
+}
 
 // function call to initialize program
 init();
