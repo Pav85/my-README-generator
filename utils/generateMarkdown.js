@@ -38,7 +38,7 @@ ${data.description}
 
 **[Questions](#Questions)**<br>
 
-**[Walkthrough Video](#Walkthrough Video)**<br>
+**[Video](#Video)**<br>
 
 ## Installation
 To install necessary dependencies run the following command:
@@ -72,7 +72,8 @@ https://github.com/${
     data.username
   }. Thank you for your time and I hope you enjoyed.
 
-## Walkthrough Video
+## Video
+For a walkthrough video click on the following link:
 https://drive.google.com/file/d/1kaUQ0AbGLyfnQumGfQcOvH_is6-BGfvQ/view
 
 `;
