@@ -17,6 +17,8 @@ This project is designed to help create a professional README file for all repos
 
 **[Questions](#Questions)**<br>
 
+**[Walkthrough Video](#WalkthroughVideo)**<br>
+
 ## Installation
 To install necessary dependencies run the following command:
 
@@ -45,4 +47,6 @@ If you have any questions about this project, open an issue or contact me direct
 pawel.werbowy@gmail.com. If you want to take a look at more of my work click on the following link:
 https://github.com/Pav85. Thank you for your time and I hope you enjoyed.
 
+## Walkthrough Video
+https://drive.google.com/file/d/1kaUQ0AbGLyfnQumGfQcOvH_is6-BGfvQ/view
 
