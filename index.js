@@ -28,7 +28,12 @@ const questions = [
 ];
 
 // function to write README file
-function writeToFile(fileName, data) {}
+
+function writeToFile(fileName, data) {
+  fs.writeFile(fileName, data, (err) =>
+    err ? console.error(err) : console.log("README file saved successfully!!!")
+  );
+}
 
 // function to initialize program
 function init() {}
