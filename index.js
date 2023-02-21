@@ -37,6 +37,17 @@ const questions = [
     name: "installation",
     default: "npm i",
   },
+  {
+    type: "input",
+    message: "What does the user need to know about using the repository?",
+    name: "usage",
+  },
+  {
+    type: "input",
+    message:
+      "What does the user need to know about contributing to the repository?",
+    name: "contributing",
+  },
 ];
 
 // function to write README file
