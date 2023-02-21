@@ -48,8 +48,24 @@ ${" ```"}
 ## Usage
 ${data.usage}
 
-## Licence
-This project is licensed under the ${license} license
+## License
+This project is licensed under the ${license} license.
+
+## Contributing
+${data.contributing}
+
+## Tests
+To run tests, run the following command:
+
+${"``` "} 
+${data.tests} 
+${" ```"}
+
+## Questions
+If you have any questions about this project, open an issue or contact me directly at 
+${data.email}. You can find more of my work at 
+https://github.com/${data.username}
+
 
 `;
 }
